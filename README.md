@@ -1,4 +1,4 @@
-# Task-4---Flask-Rest-API
+# Mini Task 4
 I have created a empty dictionary and created a index variable for key and user details as values .
 
 I used FLASK to create app, JSONIFY and request methods to create, read, update and delete the user data.
